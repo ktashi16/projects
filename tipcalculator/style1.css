@@ -1,0 +1,15 @@
+#results {
+    display:block;
+}
+
+body {
+   background-image: url(restaurant.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+
+.card-body {
+    border-radius: 20px;
+
+}
